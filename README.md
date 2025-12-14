@@ -77,5 +77,17 @@ https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_rel.html
 
 Problem 4 Anova
 
+Perform a one-way ANOVA
+https://www.geeksforgeeks.org/python/how-to-perform-a-one-way-anova-in-python/
 
+scipy.stats.
+f_oneway
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html
+
+boxplots 
+https://www.geeksforgeeks.org/machine-learning/box-plot/
+https://www.jmp.com/en/statistics-knowledge-portal/exploratory-data-analysis/box-plot
+
+color and design for boxplot
+https://www.geeksforgeeks.org/data-visualization/box-plot-in-python-using-matplotlib/
 
