@@ -1,14 +1,73 @@
 # applied-statistics
-This repository contains my assessment for the module Applied Statistics.
+
+**Author** Jennifer Ibanez Cano
+
+This repository contains the submission of the assessments for the module **Applied Statistic**, part of the HDip in Data Analytics from the ATU, Galway and imparted by the lecture Ian McLoughlin.  
+
+The assessment is presented in the form of a Jupyter Notebook and addresses a set of analytical and computational problems assigned as part of the course requirements.
+
+The details of the problems can be found here [assessment/problems.md](https://github.com/ianmcloughlin/applied-statistics/blob/main/assessment/problems.md)
+
+## Purpose of this repository.
+
+The aim of this module is to be able to demonstrate through the assessments problems the ability to:
+
+- Describe the stochastic nature of real-world measurements.
+- Source documentation to programmatically perform a statistical test.
+- Select an appropriate statistical test to investigate a claim.
+- Perform a statistical test on a data set.
+
+## Learning Outcomes
+
+This assessment assesses the ability to:
+- Apply core statistical concepts to structured problems
+- Use Python for statistical computation and analysis
+- Interpret and explain statistical results
+- Present reproducible work using Jupyter Notebooks
+
+## Repository Structure
+
+applied-statistics/
+│
+├── problems.ipynb # Main assessment notebook
+├── README.md # Repository documentation
+├── requirements.txt 
+├── 
+└── 
+
+## Computing environments Used
+
+The assessment was completed using:
+- Python 3.x
+- Jupyter Notebook
+
+Primary libraries used include:
+- NumPy
+- Pandas
+- Matplotlib
+- SciPy
+- Math
+- Statsmodels
+- Seaborn
+- Itertools
+
+## Instructions for Review
+
+To review the assessment:
+1. Open `problems.ipynb` using Jupyter Notebook or JupyterLab
+2. Run the notebook cells sequentially to reproduce the results
+3. Refer to markdown cells for explanations and interpretations
 
 
 
 
 
 
+### References for the readme 
 
 
-References for the readme 
+
+### References for the readme 
 
 Problem 1 Lady tasting tea
 
