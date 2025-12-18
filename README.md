@@ -26,14 +26,14 @@ This assessment assesses the ability to:
 - Present reproducible work using Jupyter Notebooks
 
 ## Repository Structure
-
+```
 applied-statistics/
-│
-├── problems.ipynb # Main assessment notebook
-├── README.md # Repository documentation
+├── problems.ipynb          # Main assessment notebook
+├── README.md               # Repository documentation
 ├── requirements.txt 
 ├── 
 └── 
+```
 
 ## Computing environments Used
 
@@ -63,11 +63,9 @@ To review the assessment:
 
 
 
-### References for the readme 
 
 
-
-### References for the readme 
+### References for the README 
 
 Problem 1 Lady tasting tea
 
