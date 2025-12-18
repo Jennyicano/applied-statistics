@@ -81,7 +81,7 @@ itertools.combinations
 
 https://docs.python.org/3/library/itertools.html#itertools.combinations
 
-Type I Errors, Type II Errors, and Powe
+Type I Errors, Type II Errors, and Power
 
 * Type I and Type II errors: https://en.wikipedia.org/wiki/Type_I_and_type_II_errors#Table_of_error_types
 * Power: https://en.wikipedia.org/wiki/Power_(statistics)#Description
