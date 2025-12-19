@@ -20,10 +20,10 @@ The aim of this module is to be able to demonstrate through the assessments prob
 ## Learning Outcomes
 
 This assessment assesses the ability to:
-- Apply core statistical concepts to structured problems
-- Use Python for statistical computation and analysis
-- Interpret and explain statistical results
-- Present reproducible work using Jupyter Notebooks
+- Apply core statistical concepts to structured problems.
+- Use Python for statistical computation and analysis.
+- Interpret and explain statistical results through plots and code.
+- Present reproducible work using Jupyter Notebooks.
 
 ## Repository Structure
 ```
@@ -31,15 +31,16 @@ applied-statistics/
 ├── problems.ipynb          # Main assessment notebook
 ├── README.md               # Repository documentation
 ├── requirements.txt 
-├── 
-└── 
+└── .gitignore
 ```
 
 ## Computing environments Used
 
 The assessment was completed using:
 - Python 3.x
+- Visual Studio Code
 - Jupyter Notebook
+- 
 
 Primary libraries used include:
 - NumPy
@@ -54,58 +55,66 @@ Primary libraries used include:
 ## Instructions for Review
 
 To review the assessment:
-1. Open `problems.ipynb` using Jupyter Notebook or JupyterLab
+1. Open [problems.ipynb](https://github.com/Jennyicano/applied-statistics/blob/main/problems.ipynb) using Jupyter Notebook or JupyterLab
 2. Run the notebook cells sequentially to reproduce the results
-3. Refer to markdown cells for explanations and interpretations
+3. Refer to markdown cells for explanations and interpretations. 
 
 
+## References for the README 
+---
+General references:
 
+Python coding standards and guidelines
+https://peps.python.org/pep-0008/
 
+GitHub general information about writing markdown.
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings
 
-
-
-
-### References for the README 
-
-Problem 1 Lady tasting tea
-
+*Problem 1 Lady tasting tea*
 
 math.comb(n, k)
 https://docs.python.org/3/library/math.html#math.comb
 
-Math factorial
+random.sample
+https://docs.python.org/3/library/random.html#random.sample
 
+Math factorial
 https://docs.python.org/3.12/library/math.html#math.factorial
 
-itertools.combinations
+sets
+https://docs.python.org/3/tutorial/datastructures.html#sets
 
+np.unique
+https://numpy.org/devdocs/reference/generated/numpy.unique.html
+
+numpy.sum
+https://numpy.org/devdocs/reference/generated/numpy.sum.html
+
+Monte Carlo
+https://www.kdnuggets.com/numpy-simulating-random-processes-monte-carlo-methods
+https://www.geeksforgeeks.org/python/monte-carlo-integration-in-python/
+
+itertools.combinations
 https://docs.python.org/3/library/itertools.html#itertools.combinations
 
 Type I Errors, Type II Errors, and Power
-
 * Type I and Type II errors: https://en.wikipedia.org/wiki/Type_I_and_type_II_errors#Table_of_error_types
 * Power: https://en.wikipedia.org/wiki/Power_(statistics)#Description
 
 
-Problem 2 Normal distribution.
+*Problem 2 Normal distribution.*
 
 Normal distribution 
-
 https://en.wikipedia.org/wiki/Normal_distribution
 
 Numpy mean
-
 https://numpy.org/devdocs/reference/generated/numpy.mean.html
 
-
 Numpy random.normal
-
 https://www.w3schools.com/python/numpy/numpy_random_normal.asp
-
 https://numpy.org/devdocs/reference/random/generated/numpy.random.normal.html
 
 scipy.stats. probplot
-
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.probplot.html
 
 scipy.stats shapiro
@@ -115,24 +124,21 @@ Shapiro-Wilk test for normality
 https://docs.scipy.org/doc/scipy/tutorial/stats/hypothesis_shapiro.html#hypothesis-shapiro
 
 
-Problem 3  T-test
+*Problem 3  T-test*
 
 Numpy random.normal
 https://numpy.org/doc/2.0/reference/random/generated/numpy.random.normal.html
 
 Numpy plot.subplots
-
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html
 
 seaborn.stripplot
-
 https://seaborn.pydata.org/generated/seaborn.stripplot.html
 
 scipy.stats.  ttest_rel
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_rel.html
 
-
-Problem 4 Anova
+*Problem 4 Anova*
 
 Perform a one-way ANOVA
 https://www.geeksforgeeks.org/python/how-to-perform-a-one-way-anova-in-python/
