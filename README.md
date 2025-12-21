@@ -114,6 +114,9 @@ Numpy random.normal
 https://www.w3schools.com/python/numpy/numpy_random_normal.asp
 https://numpy.org/devdocs/reference/random/generated/numpy.random.normal.html
 
+Numpy std
+https://numpy.org/doc/stable/reference/generated/numpy.std.html 
+
 scipy.stats. probplot
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.probplot.html
 
@@ -126,11 +129,26 @@ https://docs.scipy.org/doc/scipy/tutorial/stats/hypothesis_shapiro.html#hypothes
 
 *Problem 3  T-test*
 
+Numpy arange
+https://numpy.org/doc/stable/reference/generated/numpy.arange.html 
+
+Numpy mean
+https://numpy.org/doc/stable/reference/generated/numpy.mean.html
+
 Numpy random.normal
 https://numpy.org/doc/2.0/reference/random/generated/numpy.random.normal.html
 
+Numpy np.linspace
+https://numpy.org/doc/stable/reference/generated/numpy.linspace.html
+
 Numpy plot.subplots
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html
+
+Matplotlib plt.axhline 
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.axhline.html
+
+Seaborn sns.set_style whitegrid 
+https://seaborn.pydata.org/generated/seaborn.set_style.html
 
 seaborn.stripplot
 https://seaborn.pydata.org/generated/seaborn.stripplot.html
@@ -143,9 +161,20 @@ https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_rel.html
 Perform a one-way ANOVA
 https://www.geeksforgeeks.org/python/how-to-perform-a-one-way-anova-in-python/
 
-scipy.stats.
-f_oneway
+Numpy np.random.normal 
+https://numpy.org/doc/stable/reference/generated/numpy.random.normal.html
+
+scipy.stats.f_oneway
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html
+
+Pandas pd.DataFrame
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html
+
+Pandas df.describe() 
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html 
+
+scipy.stats.ttest_ind
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html
 
 boxplots 
 https://www.geeksforgeeks.org/machine-learning/box-plot/
